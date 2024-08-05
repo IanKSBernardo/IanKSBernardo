@@ -1,5 +1,4 @@
-![Ian - Github Banner](https://github.com/user-attachments/assets/48a7b75d-8b0d-4677-9211-ed6b0673d563)
-
+![Ian - GitHub Banner](https://github.com/user-attachments/assets/48b11a6f-310b-4f51-a12b-7550ebc80b3b)
 		
 <h1 align="center">Hi! , I'm Ian Bernardo</h1>
 
