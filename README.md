@@ -11,7 +11,7 @@
 
 <br>
 
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" min-width = 200px></picture>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" max-width = 300px></picture>
 <h2>About Me</h2>
 <p align="left" font="50px">I am a Front-End Web Development student with approximately one year of experience in the world of programming. Throughout my study journey, I have undertaken various types of projects, both group and personal, which has allowed me to develop my communication, mentoring, and teamwork skills.
 I consider myself a responsible and focused person. I have always liked to meet deadlines for any work or project and add good vibes for those who see it.</p>
