@@ -1,7 +1,13 @@
 ![Ian - Github Banner](https://github.com/user-attachments/assets/48a7b75d-8b0d-4677-9211-ed6b0673d563)
 
+		
 <h1 align="center">Hi! , I'm Ian Bernardo</h1>
+
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=FFFFFF&background=000000DA&center=true&vCenter=true&width=435&lines=Trainee+Developer" alt="Typing SVG" /></a></p>
+<div align="center">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/IanKSBernardo">
+</div>
+
 
 <br>
 
